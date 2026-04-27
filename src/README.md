@@ -42,4 +42,3 @@ It demonstrates:
 - `dv` — Data Vault hubs/links/satellites
 - `dm` — data marts (star-schema style)
 
-Created on 2025-08-23.
